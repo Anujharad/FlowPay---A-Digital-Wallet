@@ -1,2 +1,2 @@
 
-## FlowPay- a basic version of PayTM
+## FlowPay - a basic version of PayTM
